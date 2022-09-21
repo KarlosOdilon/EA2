@@ -1,0 +1,45 @@
+.login-container{
+  padding: 120px;
+  display: flex;
+  justify-content: center;
+  background-color: #f3f3f3;
+}
+
+.login-content{
+  border-radius: 5px;
+  padding: 60px;
+  margin-left: 5px;
+  box-shadow: 10px 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.login-content h1{
+font-weight: bold;
+font-size: 36px;
+margin-left: 66px;
+}
+
+.input-email input{
+height: 20px;
+width: 200px;
+margin-left: 4px;
+margin-bottom: 10px;
+border: 2px solid blue;
+border-radius: 4px;
+}
+
+.input-senha input{
+height: 20px;
+width: 200px;
+margin-left: 4px;
+margin-bottom: 10px;
+border: 2px solid blue;
+border-radius: 4px;
+}
+
+.login-home h4{
+  margin-left: 55px;
+}
+.botao{
+  display: flex;
+  justify-content: space-between;
+}
